@@ -1,0 +1,17 @@
+1,Bank pays you dividend of $50,50,READ
+1,Doctor's fee—Pay $50,-50,READ
+1,From sale of stock you get $50,50,READ
+1,Pay hospital fees of $100,-100,READ
+1,Holiday Fund matures—Receive $100,100,READ
+1,It is your birthday—Collect $10,10,READ
+1,Life insurance matures–Collect $100,100,READ
+1,Pay school fees of $150,-150,READ
+1,Receive $25 consultancy fee,25,READ
+1,Income tax refund–Collect $20,20,READ
+1,You have won second prize in a beauty contest–Collect $10,10,READ
+1,You inherit $100,100,READ
+3,Advance to Go (Collect $200),200,READ
+11,You are assessed for street repairs–$40 per house–$115 per hotel,null,READ
+5,You now have a 'Get Out of Jail Free' card,Community Chest,READ
+6,Go to Jail – Go directly to Jail – Do not pass GO. Do not collect $200.,null,READ
+8,Grand Opera Night — Collect $50 from every player for opening night seats,50,READ
